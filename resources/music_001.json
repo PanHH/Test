@@ -1,8 +1,8 @@
 {
-    "id": 10001,
-    "name": "The music 001",
+    "id": 10002,
+    "name": "The music 002",
     "image": "https://raw.githubusercontent.com/PanHH/Test/master/resources/music_cover_001.png",
-    "animation_url": "https://raw.githubusercontent.com/PanHH/Test/master/resources/music.mp3",
-    "description": "Test music 001",
+    "animation_url": "https://raw.githubusercontent.com/PanHH/Test/master/resources/music_001.mp3",
+    "description": "Test music 002",
     "external_url": "https://github.com/PanHH/Test"
 }
